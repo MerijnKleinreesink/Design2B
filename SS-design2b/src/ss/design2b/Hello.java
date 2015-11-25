@@ -15,4 +15,8 @@ public class Hello {
 	public String shutUp() {
 		return "Go away!";
 	}
+	
+	public String respondtoShutUp() {
+		return "No, go away yourself!";
+	}
 }
