@@ -11,4 +11,8 @@ public class Hello {
 	public String getHello() {
 		return HELLO;
 	}
+	
+	public String shutUp() {
+		return "Go away!";
+	}
 }
