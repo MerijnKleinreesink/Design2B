@@ -1,4 +1,4 @@
-package ss.design2b;
+ package ss.design2b;
 
 public class Hello {
 	
@@ -16,7 +16,13 @@ public class Hello {
 		return "Go away!";
 	}
 	
-	public String different() {
-		return "This is different";
+	public String respondtoShutUp() {
+		return "No, go away yourself!";
 	}
+
+	public String different() {
+		return "This is different ";
+	}
+	
+	
 }
