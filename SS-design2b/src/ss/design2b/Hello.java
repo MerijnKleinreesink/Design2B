@@ -21,7 +21,7 @@ public class Hello {
 	}
 
 	public String different() {
-		return "This is different ";
+		return "This is different right";
 	}
 	
 	
